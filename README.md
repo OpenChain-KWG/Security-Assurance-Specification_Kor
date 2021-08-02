@@ -8,7 +8,7 @@
 * [Introduction](translation/0_Introduction.md)
 * [1. Scope](translation/1_Scope.md)
 * [2. Terms and definitions](translation/2_Terms_and_definitions.md)
-* 3. Requirements
+* 3.Requirements
   * [3.1 It is recommended that you are OpenChain ISO 5230 conforming](translation/3.1_ISO5230_conforming.md) 
   * 3.2 Program foundation
     * [3.2.1 Policy](translation/3.2.1_Policy.md)
