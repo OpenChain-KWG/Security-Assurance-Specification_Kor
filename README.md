@@ -2,6 +2,9 @@
 
 * Original repository : https://github.com/OpenChain-Project/SecurityAssuranceGuide
 
+## Release
+
+* [1.0 한국어 번역](release/1.0/OpenChainSecurityAssuranceGuide.1.0-2021a_kor.docx)
 
 ## Contents
 
