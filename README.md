@@ -1,4 +1,4 @@
-# Korean translation for OpenChain  Security Assurance  Specification
+# Korean translation for OpenChain  Security Assurance Specification
 
 * Original repository : https://github.com/OpenChain-Project/Security-Assurance-Specification
 
